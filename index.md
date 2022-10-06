@@ -2,8 +2,8 @@
 title: Home - Citadel Coding Club
 ---
 
-# Welcome to the Coding Club Website!
-This is where you can find news, projects we made, and the calendar
+# Welcome to the Coding Club Website
+This is where you can find news, projects we made, and the schedule.
 
 ## FAQ:
 
