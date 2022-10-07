@@ -1,0 +1,9 @@
+navbar_entries:
+  - title: Home
+    url: /
+
+  - title: Schedule
+    url: https://calendar.google.com/calendar/u/0?cid=MTAwNjdkNmE0Y2NhNDE4OWRkODAzNTE2M2Y2NzA3ZjIwOTcxMWRmZGYzMDg5ZGU2NDhhM2Q5YjE4YmRlYzE4NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t
+
+  - title: Things & Stuff
+    url: featured_projects
