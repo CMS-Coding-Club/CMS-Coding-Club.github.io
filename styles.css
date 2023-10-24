@@ -1,1 +1,70 @@
+@import url(https://fonts.googleapis.com/css2?family=Roboto&display=swap);
+@import url(https://mshaugh.github.io/nerdfont-webfonts/build/meslolgm-nerd-font-mono.css);
 
+
+.main a, h1, h2, h3, p{
+	margin-left: 0.5cm
+}
+
+html, body {
+	height: 90%;
+}
+
+body {
+	min-height: 100vh;
+	position: absolute;
+	background-color: rgb(64, 64, 64);
+	font-family: 'MesloLGM Nerd Font Mono', roboto, 'sans-serif';
+	width: 100%;
+	height: 100%;
+	color: white;
+	height: auto !important;
+	height: 100%;
+	margin: 0 auto ;
+}
+
+/* nav.navbar, div.dropdown {
+	background-color: rgba(0, 162, 255, 0.5);
+}
+
+nav.navbar * {
+	color: white;
+}
+
+
+div.has-dropdown:hover a.navbar-link:hover, a.navbar-item:hover, div.dropdown:hover .navbar-link:hover, div.dropdown:hover .navbar-item:hover {
+	background-color: rgba(0, 0, 0, 0.25);
+	color: rgb(127, 127, 127);
+} */
+
+/* .navbar-dropdown .navbar-item {
+	color: black;
+} */
+
+h1.title, h2.title, h3.title{
+	color: white;
+	margin-top: .67em;
+}
+
+a .title.link {
+	color: #4caeff;
+}
+
+a.navbar-item#current, a.navbar-link#current {
+	font-weight: bold;
+}
+
+img.made-with-bulma {
+	background-color: rgba(128, 128, 128, 0.5);
+	border-radius: 10px;
+}
+
+ul.links > li > a {
+	color: #3e8ed0;
+}
+
+/* @media only screen and (min-width: 1024px){
+	div.notification#navbar-notification {
+		display: none;
+	}
+} */
