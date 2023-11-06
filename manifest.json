@@ -1,0 +1,17 @@
+{
+	"name": "Citadel Middle School Coding Club",
+	"short_name": "CMS Coding Club",
+	"start_url": ".",
+	"lang": "en",
+	"display": "standalone",
+	"theme_color":"#3e8ed0",
+	"background_color": "#404040",
+	"description": "The website for the Citadel Middle School Coding Club.",
+	"icons": [
+		{
+			"src": "assets/logos/icon.svg",
+			"sizes": "30x28",
+			"type": "image/svg+xml"
+		}
+	]
+}
