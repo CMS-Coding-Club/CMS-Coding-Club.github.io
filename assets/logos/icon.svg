@@ -24,11 +24,10 @@
 	<rect class="bg" width="6" height="7" x="24" y="0" />
 	<rect class="bg" width="30" height="22" x="0" y="6" />
 
-	<path class="text" d="M4 8 L10 8 L10 10 L6 10 L6 14 L10 14 L10 16 L4 16 L4 8 Z" />
-	<path class="text" d="M11 8 L19 8 L19 16 L17 16 L17 10 L16 10 L16 12 L14 12 L14 10 L13 10 L13 16 L11 16 L11 8 Z" />
-	<path class="text" d="M20 8 L26 8 L26 10 L22 10 L22 11 L26 11 L26 16 L20 16 L20 14 L24 14 L24 13 L20 13 L20 8 Z" />
+	<path class="text" d="M 4 8 L 10 8 L 10 10 L 6 10 L 6 14 L 10 14 L 10 16 L 4 16 L 4 8 Z" />
+	<path class="text" d="M 11 8 L 19 8 L 19 16 L 17 16 L 17 10 L 16 10 L 16 12 L 14 12 L 14 10 L 13 10 L 13 16 L 11 16 L 11 8 Z" />
+	<path class="text" d="M 20 8 L 26 8 L 26 10 L 22 10 L 22 11 L 26 11 L 26 16 L 20 16 L 20 14 L 24 14 L 24 13 L 20 13 L 20 8 Z" />
 
-	<path class="text" d="M8 18 L14 18 L14 20 L12 20 L10 20 L10 24 L14 24 L14 26 L8 26 L8 18 Z" />
-	<path class="text" d="" />
-    <path class="text" d="M16 18 L22 18 L22 20 L20 20 L18 20 L18 24 L22 24 L22 26 L16 26 L16 18 Z"/>
+	<path class="text" d="M 8 18 L 14 18 L 14 20 L 12 20 L 10 20 L 10 24 L 14 24 L 14 26 L 8 26 L 8 18 Z" />
+	<path class="text" d="M 16 18 L 22 18 L 22 20 L 20 20 L 18 20 L 18 24 L 22 24 L 22 26 L 16 26 L 16 18 Z"/>
 </svg>
